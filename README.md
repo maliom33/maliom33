@@ -125,7 +125,7 @@ Enterprise logistics platform integrating workforce management, warehouse operat
 
 **Tech Stack**
 
-Java • MySQL • Python • OpenCV • REST APIs
+React.js • Vite • Tailwind CSS • Django • Django REST Framework • PostgreSQL • MongoDB • Python • OpenCV • spaCy • scikit-learn • Google Maps API • JWT Authentication • REST APIs
 
 ---
 
