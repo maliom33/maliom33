@@ -36,7 +36,6 @@ I believe great software is built through clean code, solid system design, and c
 ---
 
 # 🚀 Tech Stack
-# 🚀 Tech Stack
 
 ### 💻 Programming Languages
 
