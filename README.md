@@ -215,7 +215,7 @@ PHP • MySQL • REST APIs • Bootstrap
 
 📧 Email: **maliom450@gmail.com**
 
-💼 LinkedIn: *(Add Your LinkedIn Link)*
+💼 LinkedIn: *linkedin.com/in/om-mali-78aa9627b*
 
 🌐 Portfolio: *(Coming Soon)*
 
