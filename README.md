@@ -120,21 +120,19 @@ I believe great software is built through clean code, solid system design, and c
   <img src="https://img.shields.io/badge/Computer_Networks-3949AB?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/System_Design-FF7043?style=for-the-badge"/>
 </p>
-# 🛠 Skills
+## 🛠️ Core Skills
 
-- Backend Development
-- Full Stack Web Development
-- REST API Development
-- Database Design
-- Authentication & Authorization
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- System Design Fundamentals
-- Problem Solving
-- Clean Code Practices
-
----
-
+<p align="left">
+<img src="https://img.shields.io/badge/Backend_Development-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System_Design-FF7043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OOP-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-1565C0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Code-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-9C27B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 # 🔥 GitHub Stats
 
 <p align="center">
